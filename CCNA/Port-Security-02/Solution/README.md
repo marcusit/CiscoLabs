@@ -10,7 +10,7 @@ int e0/0
 show run int e0/0
 show port-security
 show port-security int e0/0
-! Re-enable the first switch port after host D triggers port security
+! Re-enable the first switch port after Host D triggers port security
 int e0/0
   shutdown
   no shutdown
