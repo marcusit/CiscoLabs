@@ -1,7 +1,7 @@
 # Equipment
 
 * 1 Switch
-* 4 Hosts
+* 3 Hosts
 
 # Objective
 1. Configure port security on the first switch port, hardcoding the MAC address of host A. Plug in host A and validate that it can ping host B connected to the same switch.
