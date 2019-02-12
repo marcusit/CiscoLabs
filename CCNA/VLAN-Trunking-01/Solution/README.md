@@ -13,5 +13,6 @@ int e0/1
   switchport trunk allowed vlan 100
 ! Validation commands
 show vlan brief
-show interface e0/1 switchport
+show int e0/1 switchport
+show int trunk
 ```
