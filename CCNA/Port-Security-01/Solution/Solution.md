@@ -1,4 +1,4 @@
-# Switch 1 config
+## Switch 1
 ```
 ! Find MAC address of Host A
 show mac address-table
