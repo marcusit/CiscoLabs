@@ -20,6 +20,6 @@ show vlan brief
 ! Create the NULL VLAN
 vlan 500
   name NULL
-int range e0/3 - 48
+int range e0/3 - 47
   switchport access vlan 500
 ```
