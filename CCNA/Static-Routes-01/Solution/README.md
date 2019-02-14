@@ -43,6 +43,6 @@ int f1/0
   ip address 10.22.0.1 255.255.255.0
   no shutdown
 ! Set static routes
-ip route 10.0.0.0 255.255.255.0 10.99.1.1
-ip route 10.0.0.0 255.255.255.0 10.99.2.1 5
+ip route 10.0.0.0 255.255.255.0 fa0/0
+ip route 10.0.0.0 255.255.255.0 fa0/1 5
 ```
