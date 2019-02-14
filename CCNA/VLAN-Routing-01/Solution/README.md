@@ -2,7 +2,7 @@
 ```
 ! Disable routing if using a L3 switch
 no ip routing
-! Create the VLAN and make the appropriate port configs
+! Create the VLANs and make the appropriate port configs
 vlan 22
 vlan 33
 int e0/0
