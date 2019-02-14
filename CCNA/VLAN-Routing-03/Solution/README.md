@@ -17,6 +17,7 @@ int vlan 30
   no shutdown
 int vlan 50
   ip address 172.16.50.1 255.255.255.0
+  no shutdown
 ! Validation commands
 show ip int brief
 show vlan brief
